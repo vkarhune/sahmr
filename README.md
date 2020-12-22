@@ -1,0 +1,2 @@
+# sahmr
+SAH Mendelian randomization
